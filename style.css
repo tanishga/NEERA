@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+#neera{
+    position: fixed;
+    bottom: 20px;
+    right: -260px;
+    transition: right 2s;
+}
+
+#girl{
+    width: 64px;
+    image-rendering: pixelated;
+    display: block;
+    margin-left: auto;
+}
+
+#bubble{
+    background: white;
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: none;
+    width: 180px;
+}
+
+h3{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+button{
+    margin: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #eeeeee;
+}
