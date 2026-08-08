@@ -61,7 +61,7 @@ function laterButton(){
 function walkOut(){
     picture=setInterval(changePicture,300);
     neera.style.right="-220px";
-    stopOustide
+    setTimeout(stopOustide, 2000);
 }
 
 function remindLater(){
