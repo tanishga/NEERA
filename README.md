@@ -34,6 +34,12 @@ As a frequent digital user myself, I have faced issues like dehydration and have
 
 https://tanishga.github.io/NEERA/
 
+# How to run NEERA 
+
+* Download or close this repository.
+* Open `index.html` in a web browser.
+* NEERA will appear on the screen and you can interact with her.
+
 # Project structure
 
 ```text
