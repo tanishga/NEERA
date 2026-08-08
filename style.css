@@ -12,7 +12,7 @@ body{
 }
 
 #girl{
-    width: 64px;
+    width: 150px;
     image-rendering: pixelated;
     display: block;
     margin-left: auto;
@@ -45,3 +45,5 @@ button{
 button:hover{
     background: #eeeeee;
 }
+
+
