@@ -22,13 +22,17 @@ As a frequent digital user myself, I have faced issues like dehydration and have
 3. JavaScript
 4. Piskel for the pixel charcater (Neera)
 
-# Demo 
+# Screenshots
 
+* NEERA reminder 
+![NEERA reminder](screenshots/neera_reminder.png)
 
+* NEERA response
+![NEERA response](screenshots/neera_response.png)
 
 # Demo URL
 
-
+https://tanishga.github.io/NEERA/
 
 # Project structure
 
@@ -41,6 +45,9 @@ NEERA
 |    |__ neera_walk1.png
 |    |__ neera_walk2.png
 |
+|___ screenshots
+|    |__ neera_reminder.png
+|    |__ neera_response.png
 |___ index.html
 |___ LICENSE
 |___ README.md
