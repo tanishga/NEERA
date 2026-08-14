@@ -1,11 +1,10 @@
 # NEERA
 
-Neera is a small desktop water buddy that reminds the user to drink water. People can get very invested in their digital activities and forget basic things like drinking enough water. I wanted to make a reminder that feels a little more interactive and personal than a normal notification.
-
+Neera is a water buddy. She reminds users to be hydrated at all times. All of us these days are very much invested in the digital world. I feel like NEERA could help us, users in that way.
 
 # What Neera does?
 
-* Walks into the users dektop once every 2 hours
+* Walks into the users dektop once every 2 hours (so that overhydration doesn't happen)
 * Asks a basic but important question to the user
 * Question being - "Had water?"
 * User gets 2 options - "Yes" or "5 mins"
@@ -13,7 +12,7 @@ Neera is a small desktop water buddy that reminds the user to drink water. Peopl
 
 # Why I made it
 
-As a frequent digital user myself, I have faced issues like dehydration and have seen many people suffer from the same problem. To further prevent this from getting worse I made NEERA. She makes sure that the user drinks water every 2 hours.
+As a frequent digital user myself, I have faced issues like dehydration and have seen many people and friends suffer from the same problem. To prevent this from getting worse I made NEERA. She makes sure that the user drinks water every 2 hours.
 
 # Tools used to build Neera
 
@@ -36,7 +35,7 @@ https://tanishga.github.io/NEERA/
 
 # How to run NEERA 
 
-* Download or close this repository.
+* User can download or close this repository.
 * Open `index.html` in a web browser.
 * NEERA will appear on the screen and you can interact with her.
 
